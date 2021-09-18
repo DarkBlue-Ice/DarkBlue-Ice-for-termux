@@ -24,4 +24,4 @@ termux-reload-settings
 
 ---
 
-Made by [Enso](https://github.com/ennso)
+Made by [Enso😁](https://github.com/ennso)
