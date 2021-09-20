@@ -2,7 +2,7 @@
 
 <img src="images/example.jpg">
 
-### A Beautiful theme for termux with Dark blue and ice colors distributed in a harmonic way. 
+### A Beautiful theme for termux with dark blue and ice colors distributed in a harmonic way. 
 
 ---
 
